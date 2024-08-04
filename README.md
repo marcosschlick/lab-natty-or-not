@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Escolinha de Futebol para Crianças até 12 Anos ⚽
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Então, galera, nosso projeto é criar uma escolinha de futebol maneira para crianças até 12 anos. A ideia é proporcionar uma experiência divertida e educativa, incentivando o esporte e o desenvolvimento físico e social dos pequenos atletas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa: A gente botou umas inteligências artificiais pra criar conteúdo personalizado, tipo dicas de treinamento, histórias motivacionais e até uns desafios virtuais.
+- App Mobile: Criamos um app pra facilitar a comunicação com os pais, marcar treinos e acompanhar o progresso das crianças.
+- Câmeras Espertas: Instalamos câmeras nos campos pra pegar momentos especiais durante os treinos e jogos.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Planejamento: Primeiro, a gente definiu os objetivos da escolinha, a metodologia de ensino e os valores que queremos passar pros alunos.
+2. Estrutura Física: Montamos uns campos legais, com grama sintética e espaço pra descanso e lanche.
+3. Professores Top: Contratamos profissionais que manjam do esporte e têm paixão pelo que fazem.
+4. Divulgação: Criamos um site, redes sociais e material impresso pra divulgar a escolinha.
+5. Inscrições e Matrículas: Recebemos inscrições e matriculamos os moleques.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Até agora, já temos 100 crianças inscritas e fizemos vários treinos e amistosos. Os pais tão curtindo o progresso dos filhos e o clima positivo da escolinha.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Foi um desafio maneiro criar algo ‘natty’ com IA. A gente aprendeu muito e tá empolgado pra continuar melhorando nossa escolinha! 😊
